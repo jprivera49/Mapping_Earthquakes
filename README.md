@@ -10,7 +10,7 @@ D3.JSON, GeoJSON, Javascript, HTML, and CSS were used to create the map and the 
 -------------------------------------------------------------------------------------------------------------------------
 
 ### Satellite Street
-![satellite_street](Mapping_Earthquakes/master/Earthquake_Challenge/images/satellite_street.PNG)
+![satellite](https://raw.githubusercontent.com/jprivera49/Mapping_Earthquakes/master/Earthquake_Challenge/images/satellite.PNG)
 
 -------------------------------------------------------------------------------------------------------------------------
 ### Light 
